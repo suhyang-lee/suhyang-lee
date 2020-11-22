@@ -6,7 +6,6 @@
 - `인생을 즐겁게 사는 것이 최종 목표.`
 - `언젠가 영어를 유창하게 하는 것이 최종 목표.`
 - `하나에 꽂히면 누구보다 열심히 하는 편.`
-- `🚌 Routine : work/study -> 스피닝(workout))-> 밥먹기 최애`
 
 ## 🍊 준비 중인 개발 스택.
 - `REACT+REDUX+Express.js+MySQL(sequelize)`
